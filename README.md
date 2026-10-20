@@ -1,3 +1,5 @@
+🇺🇸
+
 # Hello, I am Natã!
 
 I am a brazillian developer specialized in LuaU and currently learning x86-64 Assembly. Developing games and learning english by myself in roblox since I was nine years old.
@@ -17,6 +19,28 @@ I am a brazillian developer specialized in LuaU and currently learning x86-64 As
 *   **Atmosphere & Performance:** Custom horror post-processing and procedural horror events optimized for low replication lag and high server-client efficiency.
 
 The project focuses heavily on gameplay systems, AI behavior, atmosphere, and player interaction, with most systems being developed from scratch in Luau.
+
+🇧🇷
+
+# Olá, eu sou o Natã!
+
+Sou um desenvolvedor brasileiro especializado em Luau e atualmente estou aprendendo Assembly x86-64. Desenvolvo jogos e aprendo inglês sozinho no Roblox desde os nove anos de idade.
+
+### Meus projetos:
+
+#### Walker: Reborn (https://roblox.com)
+
+**Objetivo**: Sobreviver em um ciclo infinito de dia e noite onde, à noite, o Walker sai de 2 poços possíveis e começa a espreitar suas vítimas para caçar e comer. É possível matá-lo, mas não para sempre.
+
+**Mecânicas Principais:**
+
+*   **Motor de IA Customizado:** Busca de caminhos (pathfinding) avançada, estados para espreita, perseguição, recuo e interação furtiva, utilizando comportamento de IA modular.
+*   **Estrutura de Gameplay e Sobrevivência:** Máquinas de estado para Sanidade, Alucinação, Clima Dinâmico/Fases da Lua e um sistema de Doenças personalizado.
+*   **Sistemas de Combate e Física:** Sistema próprio de combate Corpo a Corpo/Armas de Fogo, contando com ataques pesados baseados em contexto, gerenciamento de Estamina e combate com QTE (Quick Time Event).
+*   **Inventário e Economia:** Sistema robusto de Mochila/Saques (Loot), geração dinâmica de itens no ambiente e um Sistema de Loja com armazenamento de dados.
+*   **Atmosfera e Performance:** Pós-processamento de terror customizado e eventos de terror procedimentais otimizados para baixo atraso de replicação (replication lag) e alta eficiência entre servidor e cliente.
+
+O projeto foca fortemente em sistemas de gameplay, comportamento de IA, atmosfera e interação do jogador, com a maioria dos sistemas sendo desenvolvida do zero em Luau.
 
 # Contacts:
 
